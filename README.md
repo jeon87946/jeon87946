@@ -1,3 +1,5 @@
+export const ANIMATION_MODELS = ["waving", "venom"];
+export const NORMAL_MODELS = ["cylinder", "egg", "rect", "rounded", "shark", "slice", "soft", "wave"];
 <h1 align="center">전보경~~</h1>
 <br>
 
