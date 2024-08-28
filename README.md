@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">전보경~~</h1>
+<br>
+
+
 
 <!--
 **jeon87946/jeon87946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+api : waving
+높이 : 200
+텍스트 : HelloWorld!%20!🥳
+글자크기 : 50
+텍스트효과 : twinkling
