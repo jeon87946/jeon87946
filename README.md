@@ -1,6 +1,5 @@
-export const ANIMATION_MODELS = ["waving", "venom"];
-export const NORMAL_MODELS = ["cylinder", "egg", "rect", "rounded", "shark", "slice", "soft", "wave"];
-<h1 align="center">전보경~~</h1>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=안녕하세요%20전보경입니다&fontSize=50" />
+<!-- <h1 align="center">전보경~~</h1> -->
 <br>
 
 
