@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=안녕하세요%20전보경입니다&fontSize=50" />
 <!-- <h1 align="center">전보경~~</h1> -->
 <br>
-
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FFFFFF?style=flat&logo=appveyor&logoColor=000000"/></a>
 
 <!--
 **jeon87946/jeon87946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-api : waving
-높이 : 200
-텍스트 : HelloWorld!%20!🥳
-글자크기 : 50
-텍스트효과 : twinkling
+
