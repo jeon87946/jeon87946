@@ -49,8 +49,8 @@
 
 ## 2. 메일 웹&콘솔 / 개인
 > - 개발기간 2024.04 ~ 2024. 04
->> 프로젝트 설명 및 동영상
->> 
+>> - 프로젝트 설명 및 동영상
+>> - https://drive.google.com/file/d/1inTi1f-iN3T8XNY-ZPoXj8tGhjHBpvVH/view?usp=sharing
 <!--
 **jeon87946/jeon87946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
