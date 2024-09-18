@@ -42,8 +42,8 @@
 <!-- <img > -->
 ## 1. 웹 사이트(쇼핑몰) / 개인
 > - 개발기간 2024 ~ 2024
->> 프로젝트 설명 및 동영상
->> <!-- 동영상 링크 넣기 -->
+>> - 프로젝트 설명 및 동영상
+>> - https://drive.google.com/file/d/1w3CkVoHhChqBzOIz0awIcPkH_EdFy90-/view?usp=sharing
 
 <br/>
 
